@@ -13,7 +13,7 @@
     <br>
     :coffee: Wanna chat? :point_right: @ me by my email 1570194845@qq.com
     <br>
-    my website: https://haust-lyb.github.io/
+    my website: 海外： https://haust-lyb.github.io/ China 🇨🇳 ： https://haust_lyb.gitee.io/
   </samp>
 </p>
 
@@ -21,18 +21,3 @@
   <summary><b>:telescope: 2020 愿望</b></summary>
   2020 疫情影响之下的世界，最大的希望就是人类能走出新冠阴霾，重拾自有开放的光明
 </details>
-
-<!--
-**haust-lyb/haust-lyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
