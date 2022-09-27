@@ -9,7 +9,7 @@
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br>
     <br>
-    :coffee: Wanna chat? :point_right: @ me by my email 1570194845@qq.com
+    :coffee: Wanna chat? :point_right: @ me by my email ace1570194845@gmail.com
     <br>
     my website: https://jiniaohou.com
   </samp>
